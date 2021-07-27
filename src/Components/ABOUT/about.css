@@ -1,0 +1,16 @@
+.link_body {
+    display: flex;
+    justify-content: space-evenly;
+   font-size: 0.5rem;
+}
+
+
+
+.page_heading {
+    text-align: center;
+    font-size: 0.5rem;
+}
+
+.page_body {
+    text-align: center;
+}
