@@ -1,0 +1,17 @@
+.link_body {
+    display: flex;
+    justify-content: space-evenly;
+   font-size: 0.5rem;
+   background-color:cadetblue;
+   color:black;
+   text-decoration: none;
+}
+
+.page_heading {
+    text-align: center;
+   
+}
+
+.page_body {
+    text-align: center;
+}
